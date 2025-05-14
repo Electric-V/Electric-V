@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Electric-V, a graduate student at Beijing Institute of Technology
-- 👀 I’m interested in data-driven interaction between new energy vehicles and power grids
-- 🌱 I’m currently learning machine learning and spatial-temporal prediction
+- 👀 I’m interested in EVGI(Electric vehicle-Grid Interaction)
+- 🌱 I’m currently learning spatial-temporal prediction and large language model
 
 <!---
 Electric-V/Electric-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
