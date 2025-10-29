@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Electric-V, a graduate student at Beijing Institute of Technology
+- 👋 Hi, I’m @Electric-V, a PhD student at Beijing Institute of Technology
 - 👀 I’m interested in EVGI(Electric vehicle-Grid Interaction)
 - 🌱 I’m currently learning spatial-temporal prediction and large language model
 
